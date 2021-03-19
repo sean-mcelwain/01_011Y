@@ -4,7 +4,14 @@ The Home Page for a fictitious company Horiseon Social Solution Services, Inc.  
 
 # URL: https://sean-mcelwain.github.io/Horiseon-Unique/
 
+# Screenshot
+
 ![Screenshot](https://sean-mcelwain.github.io/Horiseon-Unique/assets/images/Screenshot.jpg)
+
+# Windowed Screenshot:
+
+![Screenshot](https://sean-mcelwain.github.io/Horiseon-Unique/assets/images/Screenshot_windowed.jpg)
+
 
 # Credits
 Study Group: Law and Coder
